@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable-v24/a.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable-v24/bg_gray_corner.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable-v24/bg_oder.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable-v24/first_install_bg.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/a.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/b.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_blue_corner.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_btn_booking.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_call.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_corner.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_corner_boder_solid.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_gray_corner.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_oder.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/bg_radio_button.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/first_install_bg.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/header_bg.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/ic_baseline_arrow_back.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/ic_baseline_arrow_forward.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/ic_baseline_receipt_long.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/ic_baseline_search.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1920138888888889" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/drawable/search_bg.xml" value="0.30885416666666665" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_booking.xml" value="0.2086956590966153" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_detail.xml" value="0.2754782700075322" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_first_install_app.xml" value="0.18125" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_hotel_reservation_list.xml" value="0.18125" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_hottel_reservatio_list.xml" value="0.18125" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_login.xml" value="0.2086956590966153" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_main.xml" value="0.33962264150943394" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/activity_search.xml" value="0.17881944444444445" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/dialog_book_hottel_room.xml" value="0.2754782700075322" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/dialog_booking.xml" value="0.559304366378929" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/dialog_booking_hottel.xml" value="0.2754782700075322" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/dialog_oder.xml" value="0.2754782700075322" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/gridview_row.xml" value="0.559304366378929" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/item_hottel.xml" value="0.4173913181932306" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/item_oder.xml" value="0.2754782700075322" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/item_photo.xml" value="0.18125" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/item_top_hottel.xml" value="0.559304366378929" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/layout/toolbar_main.xml" value="0.1" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/menu/menu.xml" value="0.18365218000502148" />
+        <entry key="..\:/Project/BookingHotel/app/src/main/res/menu/menu_search.xml" value="0.18125" />
+        <entry key="..\:/Project/Sao luu/20-01/BookingHotel/app/src/main/res/layout/activity_login.xml" value="0.18125" />
+        <entry key="..\:/Project/Sao luu/20-01/BookingHotel/app/src/main/res/layout/dialog_booking.xml" value="0.18125" />
+        <entry key="..\:/Project/Sao luu/20-01/BookingHotel/app/src/main/res/layout/dialog_login.xml" value="0.18125" />
+        <entry key="..\:/Project/Sao luu/20-01/BookingHotel/app/src/main/res/menu/menu.xml" value="0.18125" />
+        <entry key="..\:/Project/Sao luu/20-01/BookingHotel/app/src/main/res/menu/menu_search.xml" value="0.18125" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/drawable/boder_radius_item.xml" value="0.30885416666666665" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/drawable/header_bg.xml" value="0.30885416666666665" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/drawable/search_bg.xml" value="0.30885416666666665" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/layout/activity_detail.xml" value="0.21818181061547676" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/layout/activity_main.xml" value="0.21818181061547676" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/layout/item_hottel.xml" value="0.6545454318464303" />
+        <entry key="..\:/Project/Sao luu/BookingHotel/app/src/main/res/layout/item_top_hottel.xml" value="0.4363636212309535" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

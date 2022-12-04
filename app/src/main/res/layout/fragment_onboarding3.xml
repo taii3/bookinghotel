@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".OnboardingFragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="#00FDFDFD"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/hotel_3"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Breathtaking View"
+        android:textColor="#59C1BD"
+        android:fontFamily="@font/rubik_medium"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/rubik"
+        android:gravity="center"
+        android:text="The space at the hotel is extremely clean. Professional service attitude"
+        android:textColor="#99000000"
+        android:textSize="16dp" />
+
+    <Button
+        android:id="@+id/btnGetstart"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:fontFamily="@font/roboto"
+        android:text="Get Start"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
